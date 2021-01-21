@@ -1,1 +1,2 @@
 # recipe-app
+I think my biggest take away from this project was it can be a pain to host files on github pages if you're new at it. I learned that if you don't use the root directory file path in your files when creating your pages ( i.e. ./ for your index.html file and ./css/styles.css for your CSS files in a folder off the root directory path), github will host your app in its default directory and you'll be trying to figure out why nothing works!
